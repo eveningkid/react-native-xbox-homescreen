@@ -1,0 +1,94 @@
+{
+  "games": [
+    {
+      "id": "star-wars-battlefront-ii",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20uw.jpg",
+      "title": "Star Wars Battlefront II",
+      "description": "Embark on an endless Star Wars action experience from the best-selling Star Wars HD video game franchise of all time. Experience rich multiplayer battlegrounds across all 3 eras - prequel, classic and new trilogy - or rise as a new hero and discover an emotionally gripping single-player story spanning thirty years.\nCustomise and upgrade your heroes, starfighters or troopers - each with unique abilities to exploit in battle. Ride tauntauns or take control of tanks and speeders. Use the Force to prove your worth against iconic characters like Kylo Ren, Darth Maul or Han Solo, as you play a part in a gaming experience inspired by forty years of timeless Star Wars films.",
+      "editor": "Electronic Arts",
+      "screenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_original/oktni7jnthp8bakgla69.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/jjwueagkfkcmw2m0blmk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/fwgykf6zduu6xtoyh4ap.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/nibagf81e4kpppjcfkuu.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/aljcjzcbkv1cfsizyetb.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/ar4rm.jpg"
+      ]
+    },
+    {
+      "id": "battlefield-v",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xbv.jpg",
+      "title": "Battlefield V",
+      "description": "The Battlefield series goes back to its roots in a never-before-seen portrayal of World War 2. Take on physical, all-out multiplayer with your squad in modes like the vast Grand Operations and the cooperative Combined Arms, or witness human drama set against global combat in the single player War Stories. As you fight in epic, unexpected locations across the globe, enjoy the richest and most immersive Battlefield yet. Now also includes Firestorm – Battle Royale, reimagined for Battlefield.",
+      "editor": "Electronic Arts",
+      "screenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_original/cdlqzmwub64eokzm7cdt.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/xokasjrbubfkqtnvy9p3.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/enrem5i1bj7kcgx0qx6n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/lxeavjeryfvcj2jtzpu5.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/rkp2kggnoid6bthpuv2n.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/xdjjufkmte3ntonkigs5.jpg"
+      ]
+    },
+    {
+      "id": "portal-2",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rs4.jpg",
+      "title": "Portal 2",
+      "description": "Sequel to the acclaimed Portal (2007), Portal 2 pits the protagonist of the original game, Chell, and her new robot friend, Wheatley, against more puzzles conceived by GLaDOS, an A.I. with the sole purpose of testing the Portal Gun's mechanics and taking revenge on Chell for the events of Portal. As a result of several interactions and revelations, Chell once again pushes to escape Aperture Science Labs.",
+      "editor": "Valve Corporation",
+      "screenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_original/rvrge8js7xnhr4z1vrbk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/m4hdhjptmmwvrjbojzp0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/cmxaa4r52exlqvzwtxkh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/vghkwbdabx0cri7thb9y.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/i9ys3zdhph1mh3futdit.jpg"
+      ]
+    },
+    {
+      "id": "gta-v",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.jpg",
+      "title": "GTA V",
+      "description": "The biggest, most dynamic and most diverse open world ever created, Grand Theft Auto V blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+      "editor": "Rockstar North",
+      "screenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_original/s7eojwfwa0viamaa68gs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/lg34eavl7phmabgceods.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/uzc3v8bb2gow8feq3eji.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/ar4ig.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/btyih5vofmjwex2tkm8w.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/nsi3tc7jk2evyici425s.jpg"
+      ]
+    },
+    {
+      "id": "cuphead",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rcx.jpg",
+      "title": "Cuphead",
+      "description": "Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era, i.e. traditional cel animation (hand drawn & hand inked!), watercolor backgrounds, and original jazz recordings. Play as Cuphead or Mugman (in single player or co-op) as you traverse strange worlds, acquire new weapons, learn powerful super moves, and discover hidden secrets. Cuphead is all action, all the time.",
+      "editor": "Studio MDHR",
+      "screenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_original/sngyjwqwzzlciy0ko0sq.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/ar6yk.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/eulkrcocd1zyuvvcv7k0.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/ec5tsfhl7wjabwjnsshs.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/r9zt66wdgqohmhuukiir.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/sqho6e7tv9verg6j1tvv.jpg"
+      ]
+    },
+    {
+      "id": "rayman-legends",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tkj.jpg",
+      "title": "Rayman Legends",
+      "description": "The Glade of Dreams is in trouble once again! The nightmares multiplied and spread, creating new monsters even more terrifying than before!",
+      "editor": "Ubisoft",
+      "screenshots": [
+        "https://images.igdb.com/igdb/image/upload/t_original/kkgfjyuoqng00x4sir6j.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/vhdw0ppdihx6jz82t2jh.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/bggmkbymja3dzinzq0jl.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/t8zhedgdwoileoam4wia.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/yhctbxy9zjyvauavex9i.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_original/ahpvophqdiq3i4sxbrah.jpg"
+      ]
+    }
+  ]
+}
+

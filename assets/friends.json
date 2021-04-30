@@ -1,0 +1,35 @@
+{
+  "friends": [
+    {
+      "id": "daigo",
+      "name": "Daigo",
+      "currentGame": "Street Fighter",
+      "picture": "https://pbs.twimg.com/profile_images/1184163360792821760/UCGA4E1I_400x400.jpg"
+    },
+    {
+      "id": "f0rest",
+      "name": "f0rest",
+      "currentGame": "CS:GO",
+      "picture": "https://pbs.twimg.com/profile_images/1219664908192755713/3PH-cn89_400x400.jpg"
+    },
+    {
+      "id": "fatal1ty",
+      "name": "Fatal1ty",
+      "currentGame": "Quake III Arena",
+      "picture": "https://pbs.twimg.com/profile_images/1162522264685838336/Ti3xyXPF_400x400.jpg"
+    },
+    {
+      "id": "moon",
+      "name": "Moon",
+      "currentGame": "Warcraft III",
+      "picture": "https://www.esportsearnings.com/images/players/1072_moon_jae_ho_jang.jpg"
+    },
+    {
+      "id": "faker",
+      "name": "Faker",
+      "currentGame": "League of Legends",
+      "picture": "https://specials-images.forbesimg.com/imageserve/5c9bf70431358e79cabfd97f/416x416.jpg"
+    }
+  ]
+}
+
